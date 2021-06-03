@@ -19,3 +19,14 @@ ul{
 ul li a {
     text-decoration: none;
 }
+
+.man-section {
+    width: 60%;
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 50px;
+    justify-content: center;
+    padding: 20px;
+    flex-direction: column;
+    
+}
